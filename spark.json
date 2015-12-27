@@ -1,0 +1,7 @@
+{
+  "name": "hmc588l_simple",
+  "author": "slaamanj",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "A simple library for the HMC5883L digital compass"
+}
