@@ -31,6 +31,7 @@
  */
 
 #include <application.h>
+#include <math.h>
 
 // PLEASE NOTE!
 // The Arduino IDE is a bit braindead, even though we include Wire.h here, it does nothing
