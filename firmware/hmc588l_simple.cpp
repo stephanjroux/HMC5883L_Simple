@@ -37,7 +37,7 @@
 // you must include Wire.h in your main sketch, the Arduino IDE will not include Wire
 // in the build process otherwise.
 
-//#include "HMC5883L_Simple/HMC5883L_Simple.h"
+#include "hmc5883l_simple.h"
 
 HMC5883L_Simple::HMC5883L_Simple()
 {
