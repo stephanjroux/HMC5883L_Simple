@@ -30,13 +30,13 @@
  * @license MIT License
  */
 
-#include <Arduino.h>
+#include <application.h>
 
 // PLEASE NOTE!
 // The Arduino IDE is a bit braindead, even though we include Wire.h here, it does nothing
 // you must include Wire.h in your main sketch, the Arduino IDE will not include Wire
 // in the build process otherwise.
-#include <Wire.h>
+
 #include "HMC5883L_Simple.h"
 
 HMC5883L_Simple::HMC5883L_Simple()
